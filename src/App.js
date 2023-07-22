@@ -31,6 +31,7 @@ const Container = styled("div")({
   padding: "20px 10px",
   margin: "auto",
   borderRadius: 4,
+  
   boxShadow: "0 3px 6px 0 #555",
   background: "white",
   fontFamily: "Montserrat",
