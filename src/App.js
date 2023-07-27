@@ -74,6 +74,7 @@ function App() {
         <CityComponent updateCity={updateCity} fetchWeather={fetchWeather} />
       )}
     </Container>
+    
   );
 }
 
