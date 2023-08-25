@@ -1,3 +1,9 @@
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  
+  monospace;
+}
 body {
   margin: 0;
   background: linear-gradient(papayawhip, white);
@@ -14,8 +20,3 @@ body {
   
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-  
-  monospace;
-}
